@@ -42,6 +42,8 @@
                   to show details for the current item
         -->
         <Grid Grid.Row="1" x:Name="ContentRoot" Margin="19,9.5,19,0">
+        	<Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="98" Margin="68,52,0,0" Stroke="Black" VerticalAlignment="Top" Width="188"/>
+        	<DatePicker HorizontalAlignment="Left" Margin="68,214,0,0" VerticalAlignment="Top"/>
 
         </Grid>
     </Grid>
